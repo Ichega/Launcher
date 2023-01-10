@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Launcher</string>
+    <string name="Telephone">Телефон</string>
+    <string name="sms">Сообщения</string>
+    <string name="contacts">Контакты</string>
+    <string name="Chrome">Браузер</string>
+    <string name="Camera">Камера</string>
+    <string name="Settings">Настройки</string>
+    <string name="All">Все приложения</string>
+    <string name="Clock">Часы</string>
+    <string name="gallery">Галерея</string>
+    <string name="Телеграмм">Телеграмм</string>
+    <string name="Whats_app">Whats app </string>
+    <string name="ВКонтакте">ВКонтакте</string>
+    <string name="Kakao_talk">Kakao talk</string>
+    <string name="Aliexpress">Aliexpress</string>
+    <string name="Genshin_impact">Genshin impact</string>
+    <string name="Диктофон">Диктофон</string>
+    <string name="Дискорд">Дискорд</string>
+    <string name="Gmail">Gmail</string>
+    <string name="Задачи">Задачи</string>
+    <string name="Заметки">Заметки</string>
+    <string name="LazyMedia_player">LazyMedia player</string>
+    <string name="Почта">Почта</string>
+    <string name="Сбербанк">Сбербанк</string>
+    <string name="ТикТок">ТикТок</string>
+    <string name="Отметки">Mihoyo</string>
+    <string name="Шиори">Шиори</string>
+    <string name="next">Следующая страница</string>
+    <string name="back">Избранное</string>
+    <string name="transport">Транспорт</string>
+    <string name="razvlechenia">РАЗВЛЕЧЕНИЯ</string>
+    <string name="play">Google Play</string>
+    <string name="tools">ИНСТРУМЕНТЫ</string>
+    <string name="music">Музыка</string>
+    <string name="BattlePass">Задания</string>
+    <string name="settingslauncher">Параметры</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
